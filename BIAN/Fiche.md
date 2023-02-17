@@ -10,7 +10,7 @@
 
 -Nom de l'artiste: Elektra (compagnie)
 
--Année de réalisation:
+-Année de réalisation:2022 (ouverture)
 
 -Description de l'oeuvre:
 
