@@ -1,1 +1,1 @@
-C'est un jeu vidéo dans lequel
+C'est un jeu vidéo du type "Point and Click" dans lequel nous devons aider une jeune fille à tuer des monstres du Zodiac avec le bon objets (l'objet étant dans la pièce, nous avons à cliquer dessus et une animation où le monstre est tué se lance). Ce jeu contient douze niveaux représentant anisi les douze signes du Zodiac.
